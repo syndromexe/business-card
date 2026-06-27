@@ -1,0 +1,33 @@
+body{
+  margin: 20px;
+}
+
+.profile{
+  width: 150px;
+}
+
+.card{
+  width: 400px;
+  margin: 0px auto;
+  background-color: #ddebfe;
+  border-bottom: 6px solid #d8cefe;
+  padding: 20px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.details{
+  color: #2b2839;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.italic{
+  font-style: normal;
+}
+
+.dottedborder{
+  border: 1px dotted blue;
+}
